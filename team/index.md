@@ -21,7 +21,7 @@ We are actively recruiting! If you're interested in applying computational metho
 {% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
 {% include list.html data="members" component="portrait" filter="role == 'mascot'" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html dark=true %}
 
 {% include section.html %}
 

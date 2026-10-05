@@ -7,9 +7,17 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are an interdisciplinary team bridging computational pipelines, genomics, and clinical oncology to tackle primary brain tumors. If you are passionate about using data-driven approaches to improve cancer care, we’d love to connect.
+
+## Prospective Postdoctoral Fellows & Trainees
+We are actively recruiting talented and driven researchers. If you are interested in joining our group, please email with the subject line [Prospective Postdoc / Graduate Student] - Your Name and include:
+
+Current CV highlighting relevant computational, statistical, or biological experience
+
+A brief statement of interest outlining your research background and what you hope to work on in the lab
+
+## General Inquiries & Collaborations
+For academic collaborations, clinical trial correlative inquiries, or other questions, please contact us at below email.
 
 {%
   include button.html
