@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Our lab is growing! We welcome perspective students, postdocs, and collaborators to reach our and learn about open positions.
+We are actively recruiting! If you're interested in applying computational methods to translational cancer research, explore our open positions and get in touch.
 
 {% include section.html %}
 
