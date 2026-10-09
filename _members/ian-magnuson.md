@@ -1,7 +1,8 @@
 ---
 name: Ian Magnuson
-image: images/imagnuson.png
+image: images/imagnuson.jpeg
 role: undergrad
+affiliation: UofT
 links:
     email: ian.magnuson@mail.utoronto.ca
     linknedin: ian-magnuson

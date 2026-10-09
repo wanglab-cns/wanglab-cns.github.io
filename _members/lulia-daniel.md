@@ -1,8 +1,8 @@
 ---
 name: Lulia Daniel
-image: images/ldaniel.png
+image: images/ldaniel.jpeg
 role: research_student
-affiliation: pmh
+affiliation: PMH
 links:
     email: lulia.daniel@uhn.ca
     linkedin: lulia-daniel-638955271
