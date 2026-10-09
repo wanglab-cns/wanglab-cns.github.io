@@ -26,7 +26,7 @@ Explore how we integrate multi-omics, computational oncology, and clinical trial
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/biomarkers.png"
   link="research"
   title="Our Research"
   text=text

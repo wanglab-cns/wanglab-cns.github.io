@@ -1,6 +1,6 @@
 ---
 name: Amirfaham Fallahpour
-image: images/afallahpour.jpg
+image: images/afallahpour.png
 role: undergrad
 links:
   github: Amirfaham1
