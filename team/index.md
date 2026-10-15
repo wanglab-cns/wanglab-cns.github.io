@@ -16,6 +16,7 @@ We are actively recruiting! If you're interested in applying computational metho
 {% include list.html data="members" component="portrait" filter="role == 'scientific_associate'" %}
 {% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
 {% include list.html data="members" component="portrait" filter="role == 'programmer'" %}
+{% include list.html data="members" component="portrait" filter="role == 'clinical_fellow'" %}
 {% include list.html data="members" component="portrait" filter="role == 'phd'" %}
 {% include list.html data="members" component="portrait" filter="role == 'research_student'" %}
 {% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
