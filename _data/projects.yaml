@@ -1,0 +1,17 @@
+- title: Clinical Trials
+  # subtitle: a subtitle
+  group: featured
+  image: images/photo.jpg
+  description: Translating glioma cell states into new therapeutic strategies for glioma
+
+- title: Biomarkers
+  # subtitle: a subtitle
+  group: featured
+  image: images/photo.jpg
+  description: Developing minimally invasive and multidimensional biomarkers for precisison oncology.
+
+- title: Target Discovery
+  # subtitle: a subtitle
+  group: featured
+  image: images/photo.jpg
+  description: Developing a neurodevelopmental atlas for rational target discovery and drug repurposing in glioma.

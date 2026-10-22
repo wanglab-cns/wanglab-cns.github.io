@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-We are actively recruiting! If you're interested in applying computational methods to translational cancer research, explore our open positions and get in touch.
+We are always interested in new members with a passion for applying computational methods to translational cancer research. If you are interested in joining our team, please see our contact page.
 
 {% include section.html %}
 
