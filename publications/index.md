@@ -1,11 +1,11 @@
 ---
-title: Research
+title: Publications
 nav:
   order: 1
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
 Explore how we integrate multi-omics, computational oncology, and clinical trial data to decode brain tumour biology and discover predictive biomarkers.
 

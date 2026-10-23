@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: Wang Lab
 subtitle: Clinical Trials, Biomarkers, and Target Discovery
-description: An engaging 1-3 sentence description of your lab.
+description: The Wang Lab is a multidisciplinary team of computational biologists, bioinformaticians, and clinicians dedicated to advancing biomarker and target discovery in brain tumours. Our research focuses on integrating multi-omics data, computational oncology, and clinical trial data to decode brain tumour biology and discover predictive biomarkers.
 header: images/brain_background.jpg
 footer: images/brain_background.jpg
 proofer: false

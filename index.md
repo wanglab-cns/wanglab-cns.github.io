@@ -1,20 +1,9 @@
 ---
 ---
 
-<!-- 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%} -->
 
-
-
-# Wang Lab
-
-Welcome to the Wang lab at the Princess Margaret Cancer Centre. We bring together computational oncology, multi-omics datasets, and clinical trial data to better understand primary brain tumours like glioblastoma.
+# Advancing Biomarker and Target Discovery in Brain Tumours
+Welcome to the Wang Lab! We are a multidisciplinary team of computational biologists, bioinformaticians, and clinicians dedicated to advancing biomarker and target discovery in brain tumours. Our research focuses on integrating multi-omics data, computational oncology, and clinical trial data to decode brain tumour biology and discover predictive biomarkers.
 
 {%
   include figure.html
@@ -57,7 +46,7 @@ Explore how we integrate multi-omics, computational oncology, and clinical trial
 
 {% capture text %}
 
-We are actively recruiting! If you're interested in applying computational methods to translational cancer research, explore our open positions and get in touch.
+We are actively recruiting! If you're interested in applying computational methods to translational cancer research, please get in touch.
 
 {%
   include button.html

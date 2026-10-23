@@ -23,8 +23,19 @@ We are always interested in new members with a passion for applying computationa
 {% include list.html data="members" component="portrait" filter="role == 'mascot'" %}
 
 {% include section.html dark=true %}
+Interested in joining our lab? Please reach out to us on our contact page.
+
+{%
+  include button.html
+  text="Join the Team"
+  link="contact"
+  icon="fa-solid fa-arrow-right"
+%}
+
 
 {% include section.html %}
+
+## Funding Sources
 
 {% capture content %}
 
