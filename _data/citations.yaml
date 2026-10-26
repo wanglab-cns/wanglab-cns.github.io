@@ -2403,6 +2403,64 @@
   orcid: 0000-0001-6292-3087
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.60692/ktxs7-sxw65
+  title: Mutation of ATF6 causes autosomal recessive achromatopsia
+  authors:
+  - ' Muhammad Ansar'
+  - ' Suzanne M. Leal'
+  - ' Huma Qureshi'
+  - ' Fareeha Zulfiqar'
+  - ' Kwanghyuk Lee'
+  - ' Naeem Mahmood Ashraf'
+  - ' Ehsan Ullah'
+  - ' Xin Wang'
+  - ' Sundus Sajid'
+  - ' Falak Sher Khan'
+  - ' Muhammad Aminuddin'
+  - ' Joshua D. Smith'
+  - ' Jay Shendure'
+  - ' Michael J. Bamshad'
+  - ' Deborah A. Nickerson'
+  - ' Abdul Hameed'
+  - ' Saima Riazuddin'
+  - ' Zubair M. Ahmed'
+  - ' Wasim Ahmad'
+  - ' Suzanne M. Leal'
+  publisher: OpenAlex
+  date: '2015-06-11'
+  link: https://doi.org/hckw2b
+  orcid: 0000-0001-6292-3087
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.60692/e5b3p-qn567
+  title: Mutation of ATF6 causes autosomal recessive achromatopsia
+  authors:
+  - ' Muhammad Ansar'
+  - ' Suzanne M. Leal'
+  - ' Huma Qureshi'
+  - ' Fareeha Zulfiqar'
+  - ' Kwanghyuk Lee'
+  - ' Naeem Mahmood Ashraf'
+  - ' Ehsan Ullah'
+  - ' Xin Wang'
+  - ' Sundus Sajid'
+  - ' Falak Sher Khan'
+  - ' Muhammad Aminuddin'
+  - ' Joshua D. Smith'
+  - ' Jay Shendure'
+  - ' Michael J. Bamshad'
+  - ' Deborah A. Nickerson'
+  - ' Abdul Hameed'
+  - ' Saima Riazuddin'
+  - ' Zubair M. Ahmed'
+  - ' Wasim Ahmad'
+  - ' Suzanne M. Leal'
+  publisher: OpenAlex
+  date: '2015-06-11'
+  link: https://doi.org/hckw2c
+  orcid: 0000-0001-6292-3087
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1158/0008-5472.CAN-13-3629
   title: Foretinib Is Effective Therapy for Metastatic Sonic Hedgehog Medulloblastoma
   authors:
